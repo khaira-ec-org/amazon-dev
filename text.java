@@ -1,4 +1,4 @@
-lix 
+lux 
 liril
 pears
 fiama
