@@ -1,0 +1,5 @@
+loin
+tiger
+cat
+horse
+
